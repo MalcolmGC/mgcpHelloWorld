@@ -1,5 +1,6 @@
 mgcTextText.txt
 This file is for testing GIT.
+Line 3 added after initial commit.
 // Create object with a factory function (generic).js
 'use strict';
 var oProto = { // object prototype.
